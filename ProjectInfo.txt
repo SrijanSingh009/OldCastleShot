@@ -1,0 +1,5 @@
+Old Casle Shot:
+01. Unreal version used: 4.27
+02. Map Location: CastleScene\Content\Maps (CastleBG_01)
+03. Cinematics: Content\Cinematic (Castle_Seq_01)
+04. Camera: CineCameraActor1
